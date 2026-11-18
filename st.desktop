@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=st
+Comment=Simple terminal
+Exec=/usr/bin/st
+TryExec=/usr/bin/st
+Icon=utilities-terminal
+Terminal=false
+Categories=System;TerminalEmulator;
